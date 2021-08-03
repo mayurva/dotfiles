@@ -1,0 +1,22 @@
+#cd
+alias cdgh="cd ~/repos/github"
+alias cdghe="cd ~/repos/ghe"
+
+#neuron
+alias n=neuron
+alias nn="n new"
+alias ng="n gen"
+alias nv="n --version"
+
+#git
+alias g=git
+
+#pyenv
+alias pye=pyenv
+alias pyein="pye install"
+alias pyev="pye virtualenv"
+alias pyesh="pye shell"
+
+#openstack
+alias os=openstack
+
